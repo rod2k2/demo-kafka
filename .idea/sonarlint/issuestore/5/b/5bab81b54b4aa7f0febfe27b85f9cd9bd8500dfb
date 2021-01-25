@@ -1,8 +1,0 @@
-
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÕäĞğ8ªì¹ÿò.
-X	java:S125"<This block of commented-out lines of code should be removed.(ä Ä½8©‘Äÿò.
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(ÈŠÑ½şÿÿÿÿ8ÈÉéşò.
-Q
-java:S3740"/Provide the parametrized type for this generic.(Êšß¾øÿÿÿÿ8Ú¿Øşò.
-]	java:S125%"<This block of commented-out lines of code should be removed.( —Ó¼ÿÿÿÿÿ8ŸÊ·ÿò.
-X	java:S125#"<This block of commented-out lines of code should be removed.(ù†„Ç8ŸÊ·ÿò.
